@@ -8,6 +8,7 @@ To write a verilog code for 4bit up/down counter and verify the functionality us
 
 1.	nclaunch- Used for Functional Simulation
    
+   
 ## Design Information and Bock Diagram:
 
 	An up/down counter is a digital counter which can be set to count either from 0 to
